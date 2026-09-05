@@ -310,7 +310,13 @@
       var PLANS = GiaHuyMembership.PLANS.slice();
       var PLAN_PRICES = {};
       var selectedPlan = null;
-      var currentApp = "mong";
+      var currentApp = (function () {
+        try {
+          var q = new URLSearchParams(location.search).get("app");
+          if (q && /^(mong|cot|dam)$/.test(q)) return q;
+        } catch (e) {}
+        return "mong";
+      })();
       var tickTimer = null;
       var frames = {};
 
