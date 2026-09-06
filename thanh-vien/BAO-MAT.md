@@ -32,7 +32,7 @@ Sau bước này: không ai clone được mã shop thép từ GitHub nữa.
 2. Trong mỗi app (repo Private), thêm:
 
 ```html
-<script src="https://xd.giahuy.net/js/membership.js"></script>
+<script src="https://ntgiahuy.github.io/home/js/membership.js"></script>
 ```
 
 ```js

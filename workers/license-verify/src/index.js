@@ -11,7 +11,7 @@
  *   body: { "license": "GH1...." }
  *   → { ok: true, plan, exp, email } | { ok: false, error }
  *
- * CORS mở cho cot/mong/dam/xd.giahuy.net.
+ * CORS mở cho cot/mong/dam/ntgiahuy.github.io/home.
  */
 export default {
   async fetch(request, env) {
@@ -61,8 +61,8 @@ function corsHeaders(origin) {
     "https://cot.giahuy.net",
     "https://mong.giahuy.net",
     "https://dam.giahuy.net",
-    "https://xd.giahuy.net",
-    "https://xd.giahuy.net",
+    "https://ntgiahuy.github.io",
+    "https://ntgiahuy.github.io/home",
     "http://127.0.0.1:4177",
     "http://localhost:4177",
     "http://127.0.0.1:43123",
