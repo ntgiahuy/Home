@@ -4,9 +4,9 @@ Một mã thành viên (`GH1....`) mở khóa **Xuất PDF / CAD** trên cả 3 
 
 | Tiện ích | URL |
 |----------|-----|
-| Cột | https://cot.giahuy.net/ |
-| Móng | https://mong.giahuy.net/ |
-| Dầm | https://dam.giahuy.net/ |
+| Cột | https://ntgiahuy.github.io/cot/ |
+| Móng | https://ntgiahuy.github.io/mong/ |
+| Dầm | https://ntgiahuy.github.io/dam/ |
 
 CDN (repo này): https://ntgiahuy.github.io/home/thanh-vien/
 

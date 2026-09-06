@@ -8,7 +8,7 @@
 | Người khác không xem / fork mã nguồn | **Không** nếu để Public | Đổi repo sang **Private** |
 | Lập trình viên không bypass được hoàn toàn | **Không** nếu PDF chạy 100% trong trình duyệt | Đưa xuất PDF lên **server** kiểm tra mã |
 
-App đang là **file tĩnh** (HTML/JS) trên `cot.giahuy.net` / `mong` / `dam`. Dù repo Private, trình duyệt vẫn tải JS công khai — người am hiểu có thể mở DevTools và bỏ dòng kiểm tra. Muốn “chắc”, phần xuất PDF phải nằm trên server.
+App đang là **file tĩnh** (HTML/JS) trên `ntgiahuy.github.io/cot` / `mong` / `dam`. Dù repo Private, trình duyệt vẫn tải JS công khai — người am hiểu có thể mở DevTools và bỏ dòng kiểm tra. Muốn “chắc”, phần xuất PDF phải nằm trên server.
 
 ---
 

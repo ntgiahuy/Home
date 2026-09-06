@@ -58,9 +58,9 @@ export default {
 
 function corsHeaders(origin) {
   const allowed = [
-    "https://cot.giahuy.net",
-    "https://mong.giahuy.net",
-    "https://dam.giahuy.net",
+    "https://ntgiahuy.github.io/cot",
+    "https://ntgiahuy.github.io/mong",
+    "https://ntgiahuy.github.io/dam",
     "https://ntgiahuy.github.io",
     "https://ntgiahuy.github.io/home",
     "http://127.0.0.1:4177",
